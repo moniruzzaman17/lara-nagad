@@ -1,5 +1,5 @@
 {
-  "name": "code4mk/lara-nagad",
+  "name": "moniruzzaman17/lara-nagad",
   "description": "Laravel nagad payment package",
   "keywords": [
     "nagad",
@@ -11,26 +11,19 @@
     "issues": "https://github.com/code4mk/lara-nagad/issues",
     "source": "https://github.com/code4mk/lara-nagad"
   },
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "code4mk",
-      "email": "hiremostafa@gmail.com",
-      "website": "https://code4mk.org"
-    }
-  ],
   "autoload": {
     "psr-4": {
-      "Code4mk\\Nagad\\": "src/"
+      "Moniruzzaman17\\Nagad\\": "src/"
     }
   },
   "extra": {
     "laravel": {
-        "providers": [
-            "Code4mk\\Nagad\\NagadServiceProvider"
-        ]
+      "providers": [
+        "Moniruzzaman17\\Nagad\\NagadServiceProvider"
+      ]
     }
   },
+  "license": "MIT",
   "prefer-stable": true,
   "minimum-stability": "dev"
 }
