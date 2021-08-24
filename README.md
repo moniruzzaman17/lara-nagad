@@ -14,13 +14,13 @@ composer require moniruzzaman17/lara-nagad
 ## 1 ) vendor publish (config)
 
 ```bash
-php artisan vendor:publish --provider="Code4mk\Nagad\NagadServiceProvider" --tag=config
+php artisan vendor:publish --provider="Moniruzzaman\Nagad\NagadServiceProvider" --tag=config
 ```
 
 ## 1.1 ) if you are using Laravel before version 5.4, manually register the service provider in your config/app.php file
 
 ```php
-Code4mk\Nagad\NagadServiceProvider::class
+Moniruzzaman\Nagad\NagadServiceProvider::class
 ```
 
 ## 2 ) Config setup
