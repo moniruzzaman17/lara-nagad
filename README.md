@@ -6,7 +6,7 @@ Laravel Nagad payment `BD`
 # Installation
 
 ```bash
-composer require code4mk/lara-nagad
+composer require moniruzzaman17/lara-nagad
 ```
 
 # Setup
