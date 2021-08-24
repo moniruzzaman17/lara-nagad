@@ -6,6 +6,9 @@
     "nagad-payment",
     "code4mk"
   ],
+  "require": {
+    "php": ">=7.4"
+  },
   "homepage": "https://github.com/code4mk/lara-nagad",
   "support": {
     "issues": "https://github.com/code4mk/lara-nagad/issues",
