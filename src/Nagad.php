@@ -1,8 +1,8 @@
 <?php
 
-namespace Code4mk\Nagad;
+namespace Moniruzzaman17\Nagad;
 
-use Code4mk\Nagad\Utility;
+use Moniruzzaman17\Nagad\Utility;
 
 /**
  * Nagad class

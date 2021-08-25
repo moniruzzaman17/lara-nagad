@@ -1,6 +1,6 @@
 <?php
 
-namespace Code4mk\Nagad\Facades;
+namespace Moniruzzaman17\Nagad\Facades;
 
 /**
  * Nagad Facades

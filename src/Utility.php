@@ -1,6 +1,6 @@
 <?php
 
-namespace Code4mk\Nagad;
+namespace Moniruzzaman17\Nagad;
 
 /**
  * Utility class

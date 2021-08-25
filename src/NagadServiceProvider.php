@@ -1,6 +1,6 @@
 <?php
 
-namespace Code4mk\Nagad;
+namespace Moniruzzaman17\Nagad;
 
 /**
  * Service Provider class
@@ -23,7 +23,7 @@ class NagadServiceProvider extends ServiceProvider
         __DIR__ . '/../config/nagad.php' => config_path('nagad.php'),
       ], 'config');
 
-       AliasLoader::getInstance()->alias('NagadPayment', 'Code4mk\Nagad\Facades\Nagad');
+       AliasLoader::getInstance()->alias('NagadPayment', 'Moniruzzaman17\Nagad\Facades\Nagad');
    }
 
   /**
