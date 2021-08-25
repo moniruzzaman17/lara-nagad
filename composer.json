@@ -7,7 +7,7 @@
     "code4mk"
   ],
   "require": {
-    "php": ">=7.4"
+    "php": ">=7.3"
   },
   "homepage": "https://github.com/code4mk/lara-nagad",
   "support": {
